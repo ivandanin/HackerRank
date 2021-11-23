@@ -1,0 +1,58 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4135E76B-620F-E27D-628C-9CC255216A2B" name="Customer">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:23:42 UTC</createdTime>
+<ownerDesignName>orders</ownerDesignName>
+<ordsAlias>table_4</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="customer_id" id="D9792C35-2D68-46DA-DFA8-56A5C9B1CAA5">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:24:23 UTC</createdTime>
+<ownerDesignName>orders</ownerDesignName>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="customer_name" id="EE2FDDE1-A910-5BBF-68E9-899282066E60">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:24:23 UTC</createdTime>
+<ownerDesignName>orders</ownerDesignName>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="customer_phone" id="0D11313A-E462-95EA-13D5-B4EA62EC4D0F">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:24:43 UTC</createdTime>
+<ownerDesignName>orders</ownerDesignName>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="customer_email" id="BCD23EFB-69F0-63C2-C838-33EE4E95EB0F">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:24:43 UTC</createdTime>
+<ownerDesignName>orders</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="369F2F61-2210-809D-88AB-9274E41306F0" name="Customer_PK">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:24:23 UTC</createdTime>
+<ownerDesignName>orders</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D9792C35-2D68-46DA-DFA8-56A5C9B1CAA5"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
