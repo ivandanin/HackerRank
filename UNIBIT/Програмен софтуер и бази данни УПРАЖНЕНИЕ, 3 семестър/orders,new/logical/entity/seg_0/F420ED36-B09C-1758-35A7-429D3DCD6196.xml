@@ -1,0 +1,58 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F420ED36-B09C-1758-35A7-429D3DCD6196" name="Customers_Orders">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:06:53 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="customer_id" id="CDE66384-EA45-B3A6-6588-06EE89909F44">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:07:02 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="address_id" id="91694A9F-ABFE-9361-C441-4438C90B0FD3">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:07:13 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="87CA9FDD-42C1-9536-36FE-1E2B74766BB8" name="Customers_Orders PK">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:07:07 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>CDE66384-EA45-B3A6-6588-06EE89909F44</attributeRef>
+<attributeRef>91694A9F-ABFE-9361-C441-4438C90B0FD3</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

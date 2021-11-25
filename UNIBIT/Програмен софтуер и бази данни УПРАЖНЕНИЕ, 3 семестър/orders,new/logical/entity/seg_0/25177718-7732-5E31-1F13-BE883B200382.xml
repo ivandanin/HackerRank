@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="25177718-7732-5E31-1F13-BE883B200382" name="Products">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:10:06 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="product_id" id="83C7E28F-081C-5BE4-904D-C01C13E437AC">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:10:13 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="price" id="E1F37099-0938-8119-408C-53F6E24ED242">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:10:29 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>2</dataTypePrecision>
+<ownDataTypeParameters>,2,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="supplier_id" id="DD020BAC-32C9-ADF9-5FED-6C6543ECC683">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:10:38 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="B945B8CD-B249-8D45-7ADB-89610E8069A5" name="Products PK">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 15:10:23 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<engineerTo>
+<item key="78E04EDC-D210-74F6-AB36-290981F94B20" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>83C7E28F-081C-5BE4-904D-C01C13E437AC</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

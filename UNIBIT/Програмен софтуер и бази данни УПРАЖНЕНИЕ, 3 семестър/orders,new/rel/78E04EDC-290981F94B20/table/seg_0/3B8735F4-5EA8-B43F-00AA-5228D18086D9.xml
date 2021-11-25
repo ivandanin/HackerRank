@@ -1,0 +1,80 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3B8735F4-5EA8-B43F-00AA-5228D18086D9" name="Addresses">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:38:09 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<ordsAlias>table_12</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="address_id" id="A0A0BBCD-9600-472F-3050-95A495006822">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:38:53 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="city" id="6D5EBEFF-F220-833A-A292-D88F1627C486">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:38:53 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="street" id="67D39AC6-CD59-30FA-A8A9-C51C0E798F46">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:38:53 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100</dataTypeSize>
+<ownDataTypeParameters>100,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="postcode" id="3753153D-23EB-56B8-51BE-B5C810B98E83">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:38:53 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="more_info" id="CF47DD58-44C5-2BDD-2217-31A403108CCB">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:38:53 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>300</dataTypeSize>
+<ownDataTypeParameters>300,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="03297CF9-1D40-32E8-1E39-48C5C5181759" name="Addresses_PK">
+<createdBy>ivand</createdBy>
+<createdTime>2021-11-23 14:38:53 UTC</createdTime>
+<ownerDesignName>orders,new</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A0A0BBCD-9600-472F-3050-95A495006822"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
