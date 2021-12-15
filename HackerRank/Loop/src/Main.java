@@ -16,8 +16,9 @@ public class Main {
 
             for (int j = 0; j <= n - 1; j++) {
                 sum += Math.pow(2, j) * b;
-                System.out.println(sum);
+                System.out.printf("%s ", sum);
             }
+            System.out.println();
         }
 
     }
