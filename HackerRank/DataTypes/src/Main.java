@@ -19,9 +19,7 @@ public class Main {
                 if (number >= -2147483648 && number <= 2147483647) {
                     System.out.println("* int");
                 }
-                if (number >= -9223372036854775808l) {
-                    System.out.println("* long");
-                }
+                System.out.println("* long");
             } catch (Exception e) {
                 System.out.printf(scanner.next() + " can't be fitted anywhere.%n");
             }
