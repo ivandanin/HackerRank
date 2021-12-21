@@ -13,4 +13,3 @@ public class II {
         System.out.println("Int: " + integer);
     }
 }
-o
