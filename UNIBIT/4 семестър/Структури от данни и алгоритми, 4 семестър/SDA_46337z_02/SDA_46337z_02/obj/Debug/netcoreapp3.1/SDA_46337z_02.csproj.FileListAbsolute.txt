@@ -1,0 +1,15 @@
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\bin\Debug\netcoreapp3.1\SDA_46337z_02.exe
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\bin\Debug\netcoreapp3.1\SDA_46337z_02.deps.json
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\bin\Debug\netcoreapp3.1\SDA_46337z_02.runtimeconfig.json
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\bin\Debug\netcoreapp3.1\SDA_46337z_02.runtimeconfig.dev.json
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\bin\Debug\netcoreapp3.1\SDA_46337z_02.dll
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\bin\Debug\netcoreapp3.1\SDA_46337z_02.pdb
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.csprojAssemblyReference.cache
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.Form1.resources
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.csproj.GenerateResource.cache
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.AssemblyInfoInputs.cache
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.AssemblyInfo.cs
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.csproj.CoreCompileInputs.cache
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.dll
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.pdb
+C:\Users\ivand\Documents\UNIBIT\4 семестър\Структури от данни и алгоритми, 4 семестър\SDA_46337z_02\SDA_46337z_02\obj\Debug\netcoreapp3.1\SDA_46337z_02.genruntimeconfig.cache
