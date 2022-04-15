@@ -26,7 +26,7 @@ public class Main {
     static void count(ArrayList<Object> arrayList) {
         int stud = 0;
         int rock = 0;
-        int hacker = 0;z
+        int hacker = 0;
 
         for (Object o : arrayList) {
             if (o instanceof Student) {

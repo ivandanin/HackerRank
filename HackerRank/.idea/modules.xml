@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1D Array/1D Array.iml" filepath="$PROJECT_DIR$/1D Array/1D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2D Array/2D Array.iml" filepath="$PROJECT_DIR$/2D Array/2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anagrams/Anagrams.iml" filepath="$PROJECT_DIR$/Anagrams/Anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigDecimal/BigDecimal.iml" filepath="$PROJECT_DIR$/BigDecimal/BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigInteger/BigInteger.iml" filepath="$PROJECT_DIR$/BigInteger/BigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitSet/BitSet.iml" filepath="$PROJECT_DIR$/BitSet/BitSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyFormatter/CurrencyFormatter.iml" filepath="$PROJECT_DIR$/CurrencyFormatter/CurrencyFormatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTime/DateAndTime.iml" filepath="$PROJECT_DIR$/DateAndTime/DateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day of the Programmer/Day of the Programmer.iml" filepath="$PROJECT_DIR$/Day of the Programmer/Day of the Programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Duplicated Words/Duplicated Words.iml" filepath="$PROJECT_DIR$/Duplicated Words/Duplicated Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/End of File/End of File.iml" filepath="$PROJECT_DIR$/End of File/End of File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank.iml" filepath="$PROJECT_DIR$/.idea/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPAddressRegex/IPAddressRegex.iml" filepath="$PROJECT_DIR$/IPAddressRegex/IPAddressRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstanceOf/InstanceOf.iml" filepath="$PROJECT_DIR$/InstanceOf/InstanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Int to String/Int to String.iml" filepath="$PROJECT_DIR$/Int to String/Int to String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OutputFromatting/OutputFromatting.iml" filepath="$PROJECT_DIR$/OutputFromatting/OutputFromatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parallelogram/Parallelogram.iml" filepath="$PROJECT_DIR$/Parallelogram/Parallelogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Syntax Checker/Pattern Syntax Checker.iml" filepath="$PROJECT_DIR$/Pattern Syntax Checker/Pattern Syntax Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primality/Primality.iml" filepath="$PROJECT_DIR$/Primality/Primality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reversed String/Reversed String.iml" filepath="$PROJECT_DIR$/Reversed String/Reversed String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stars/Stars.iml" filepath="$PROJECT_DIR$/Stars/Stars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StdIn and StdOut/StdIn and StdOut.iml" filepath="$PROJECT_DIR$/StdIn and StdOut/StdIn and StdOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringIntroduction/StringIntroduction.iml" filepath="$PROJECT_DIR$/StringIntroduction/StringIntroduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringTokens/StringTokens.iml" filepath="$PROJECT_DIR$/StringTokens/StringTokens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subarray/Subarray.iml" filepath="$PROJECT_DIR$/Subarray/Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Substring/Substring.iml" filepath="$PROJECT_DIR$/Substring/Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Substring Comparison/Substring Comparison.iml" filepath="$PROJECT_DIR$/Substring Comparison/Substring Comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TagContenctExtractor/TagContenctExtractor.iml" filepath="$PROJECT_DIR$/TagContenctExtractor/TagContenctExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Valid Username Regex/Valid Username Regex.iml" filepath="$PROJECT_DIR$/Valid Username Regex/Valid Username Regex.iml" />
+    </modules>
+  </component>
+</project>
