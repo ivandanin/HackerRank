@@ -4,5 +4,10 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Day_3" target="16" />
+      <module name="Day_3.main" target="16" />
+      <module name="Day_3.test" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
