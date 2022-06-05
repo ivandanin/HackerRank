@@ -1,0 +1,101 @@
+.logo,
+.marketPlaceLogoLink {
+  display: inline-block;
+  width: 100px;
+}
+
+.btn {
+  margin: 2px;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.nav-link,
+.publish-extensions,
+.nav {
+  color: black;
+  size: 16px;
+}
+
+.tab-collection-right {
+  position: absolute;
+  right: 18px;
+}
+
+.nav-link active {
+  background-color: rgb(203, 87, 74);
+  color: white;
+}
+
+.btn-floating {
+  color: black;
+}
+
+@media (max-width: 768px) {
+  .carousel-inner .carousel-item>div {
+    display: none;
+  }
+
+  .carousel-inner .carousel-item>div:first-child {
+    display: flex;
+  }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+
+  .carousel-inner .carousel-item-right.active,
+  .carousel-inner .carousel-item-next {
+    transform: translateX(33.333%);
+  }
+
+  .carousel-inner .carousel-item-left.active,
+  .carousel-inner .carousel-item-prev {
+    transform: translateX(-33.333%);
+  }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left {
+  transform: translateX(0);
+}
+
+.see-more {
+  position: absolute;
+  right: 0;
+  padding: 4px 8px;
+  font-size: 14px;
+  color: #1163f0;
+}
+
+
+.category-entry {
+  background-color: #e8e8e8;
+  width: 182px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+  float: left;
+  margin-left: 13.5px;
+  margin-top: 16px;
+}
+
+.category-entry .main-cell {
+  width: 100%;
+  border: 1px solid #eee;
+  overflow: hidden;
+  color: #000;
+  text-overflow: ellipsis;
+  text-align: center;
+  white-space: nowrap;
+  word-wrap: normal;
+}
