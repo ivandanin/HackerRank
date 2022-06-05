@@ -1,6 +1,6 @@
 package com.example.demo.app.services.impl;
 
-import com.example.demo.app.models.GitHubModel;
+import com.example.demo.app.models.entityModels.GitHubModel;
 import com.example.demo.app.services.GitHubService;
 import com.example.demo.app.auth.GitHubAuth;
 import org.kohsuke.github.GHIssueState;

@@ -1,12 +1,11 @@
 package com.example.demo.app.services.impl;
 
-import com.example.demo.app.models.ProductModel;
+import com.example.demo.app.models.entityModels.ProductModel;
 import com.example.demo.app.repositories.ProductRepository;
 import com.example.demo.app.services.SearchService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.transaction.Transactional;
 import java.util.List;
 import java.util.stream.Collectors;
 

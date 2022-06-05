@@ -1,4 +1,4 @@
-package com.example.demo.app.models.enums;
+package com.example.demo.app.models.entityModels.enums;
 
 public enum CategoryEnum {
 

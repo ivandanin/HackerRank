@@ -1,18 +1,18 @@
-package com.example.demo.app.models;
+package com.example.demo.app.models.entityModels;
 
-import com.example.demo.app.models.enums.UserRoleEnum;
+import com.example.demo.app.models.entityModels.enums.UserRoleEnum;
 
-//import javax.persistence.*;
+import javax.persistence.*;
 
-//@Entity
-//@Table(name = "roles")
+@Entity
+@Table(name = "roles")
 public class UserRole {
 
-//    @Id
-//    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-//    @Enumerated(EnumType.STRING)
+    @Enumerated(EnumType.STRING)
     private UserRoleEnum roleEnum;
 
     public Long getId() {

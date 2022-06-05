@@ -1,6 +1,6 @@
-package com.example.demo.app.models;
+package com.example.demo.app.models.entityModels;
 
-import com.example.demo.app.models.enums.CategoryEnum;
+import com.example.demo.app.models.entityModels.enums.CategoryEnum;
 //import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 package com.example.demo.app.services;
 
-import com.example.demo.app.models.ProductModel;
+import com.example.demo.app.models.entityModels.ProductModel;
 
 import java.util.List;
 

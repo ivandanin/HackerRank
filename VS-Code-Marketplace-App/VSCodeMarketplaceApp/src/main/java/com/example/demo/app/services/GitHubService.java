@@ -1,8 +1,7 @@
 package com.example.demo.app.services;
 
 
-import com.example.demo.app.models.GitHubModel;
-import org.kohsuke.github.GitHub;
+import com.example.demo.app.models.entityModels.GitHubModel;
 
 import java.io.IOException;
 
