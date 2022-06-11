@@ -95,7 +95,6 @@ public class UserServiceImpl implements UserService {
             pesho.setPassword(passwordEncoder.encode("12345"));
             pesho.setRoles(Set.of(userRole));
             userRepository.save(pesho);
-
         }
     }
 
